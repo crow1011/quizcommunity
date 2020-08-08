@@ -1,0 +1,9 @@
+*.pyc
+*.conf
+venv/
+*.log
+.idea
+*.yaml
+*dev.yml
+*.dev
+*.pytest_cache
